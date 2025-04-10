@@ -60,4 +60,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.caption("Made with ❤️ using Streamlit")
+st.caption("Made By AQSA ALI")
